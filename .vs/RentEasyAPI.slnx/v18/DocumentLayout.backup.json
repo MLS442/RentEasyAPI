@@ -1,7 +1,24 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "C:\\Roadmap\\RentEasyAPI\\",
-  "Documents": [],
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5DA4577C-2D76-1DE1-79EB-0A5D593062E9}|RentEasyAPI.csproj|c:\\roadmap\\renteasyapi\\controllers\\ticketscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5DA4577C-2D76-1DE1-79EB-0A5D593062E9}|RentEasyAPI.csproj|solutionrelative:controllers\\ticketscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5DA4577C-2D76-1DE1-79EB-0A5D593062E9}|RentEasyAPI.csproj|c:\\roadmap\\renteasyapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5DA4577C-2D76-1DE1-79EB-0A5D593062E9}|RentEasyAPI.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5DA4577C-2D76-1DE1-79EB-0A5D593062E9}|RentEasyAPI.csproj|c:\\roadmap\\renteasyapi\\models\\ticket.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5DA4577C-2D76-1DE1-79EB-0A5D593062E9}|RentEasyAPI.csproj|solutionrelative:models\\ticket.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5DA4577C-2D76-1DE1-79EB-0A5D593062E9}|RentEasyAPI.csproj|c:\\roadmap\\renteasyapi\\controllers\\tenantscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5DA4577C-2D76-1DE1-79EB-0A5D593062E9}|RentEasyAPI.csproj|solutionrelative:controllers\\tenantscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
@@ -9,11 +26,61 @@
       "DocumentGroups": [
         {
           "DockedWidth": 271,
-          "SelectedChildIndex": -1,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Roadmap\\RentEasyAPI\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Roadmap\\RentEasyAPI\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAA8AAABEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-03T00:50:28.118Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Ticket.cs",
+              "DocumentMoniker": "C:\\Roadmap\\RentEasyAPI\\Models\\Ticket.cs",
+              "RelativeDocumentMoniker": "Models\\Ticket.cs",
+              "ToolTip": "C:\\Roadmap\\RentEasyAPI\\Models\\Ticket.cs",
+              "RelativeToolTip": "Models\\Ticket.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAYAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-01T01:19:49.826Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "TicketsController.cs",
+              "DocumentMoniker": "C:\\Roadmap\\RentEasyAPI\\Controllers\\TicketsController.cs",
+              "RelativeDocumentMoniker": "Controllers\\TicketsController.cs",
+              "ToolTip": "C:\\Roadmap\\RentEasyAPI\\Controllers\\TicketsController.cs",
+              "RelativeToolTip": "Controllers\\TicketsController.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAQwCYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-28T21:50:56.268Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "TenantsController.cs",
+              "DocumentMoniker": "C:\\Roadmap\\RentEasyAPI\\Controllers\\TenantsController.cs",
+              "RelativeDocumentMoniker": "Controllers\\TenantsController.cs",
+              "ToolTip": "C:\\Roadmap\\RentEasyAPI\\Controllers\\TenantsController.cs",
+              "RelativeToolTip": "Controllers\\TenantsController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-28T00:30:32.263Z"
             }
           ]
         }
